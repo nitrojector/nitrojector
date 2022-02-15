@@ -2,7 +2,7 @@
 
 ![metrics 1](/github-metrics.svg)
 
-![metrics 2](/metrics.plugin.languages.indepth.svg)
+![metrics 2](/metrics.plugin.languages.details.svg)
 
 <!--
 **nitrojector/nitrojector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
