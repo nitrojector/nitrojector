@@ -1,8 +1,8 @@
-# 🦊 想笑的我戴上了猫的面具
+<h1 align="center">🦊 想笑的我戴上了猫的面具</h1>
 
-<!-- ![metrics 1](/github-metrics.svg) -->
-
-![metrics 2](/metrics.plugin.languages.details.svg)
+<p align="center">
+  <img alt="metrics" src="/github-metrics.svg"/>
+</p>
 
 <!--
 **nitrojector/nitrojector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
