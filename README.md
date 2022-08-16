@@ -1,4 +1,4 @@
-<h1 align="center">🦊 想笑的我戴上了猫的面具</h1>
+<h1 align="center">🦊 消失的我戴上了猫的面具</h1>
 
 <p align="center">
   <a aria-label="build status" href="https://github.com/nitrojector/nitrojector/actions/workflows/metrics-2.yml">
