@@ -1,8 +1,6 @@
 <h1 align="center">消失的我戴上了猫的面具</h1>
 
 <p align="center">
-  <i>Reception might be difficult, but freedom is not.</i>
-  <br><br>
   <a aria-label="build status" href="https://github.com/nitrojector/nitrojector/actions/workflows/metrics-2.yml">
     <img alt="" src="https://github.com/nitrojector/nitrojector/actions/workflows/metrics-2.yml/badge.svg">
   </a>
